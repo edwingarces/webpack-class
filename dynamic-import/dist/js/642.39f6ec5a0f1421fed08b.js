@@ -1,0 +1,1 @@
+(self.webpackChunkwebpack_class=self.webpackChunkwebpack_class||[]).push([[642],{642:(a,e,s)=>{"use strict";s.r(e),s.d(e,{alerta:()=>c});var c=function(a){alert(a)}}}]);
